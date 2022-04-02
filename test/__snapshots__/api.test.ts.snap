@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`schema api client with plugins and configure > should return a configurable apis list 2`] = `
+{
+  "download": [Function],
+  "getRes": [Function],
+  "getTest": [Function],
+  "setTest": [Function],
+}
+`;
